@@ -11,11 +11,13 @@
    jei nesibaigia padedam kabletaski ir prirasom %JAVA_HOME%/bin
    pvz.:    ...Skype\Phone;%JAVA_HOME%\bin
 */
-public class Hello {
+ class Hello
+{
     /**
      * Pagrindine klase
      */
-    public static void main(String args[]) {
+    public static void main(String args[])
+    {
         System.out.println("Hello world");
     }
 }
